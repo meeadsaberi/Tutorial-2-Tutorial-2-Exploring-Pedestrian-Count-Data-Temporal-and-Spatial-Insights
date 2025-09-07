@@ -22,7 +22,7 @@ Clean, map, and analyse multi-year pedestrian counts for the City of Sydney — 
 3. The notebook downloads the two CSVs from Google Drive automatically; you can swap in your own files/paths.
 
 ## Files
-- `notebooks/tutorial_city_of_sydney_pedestrian_counts.ipynb` — main notebook  
+- `Tutorial_2_Making_sense_of_City_of_Sydney_walking_count_data.ipynb` — main notebook  
 
 ## Data
 The notebook reads two CSVs via public links:
